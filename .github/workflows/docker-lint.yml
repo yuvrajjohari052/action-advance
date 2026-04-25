@@ -1,0 +1,5 @@
+name: Docker lint
+
+on:
+    workflow_call:
+

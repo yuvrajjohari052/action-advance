@@ -1,2 +1,4 @@
 #packages scan issue ya vulneriblities scan 
 name: Dependencies Scan
+on:
+    workflow_call:
